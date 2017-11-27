@@ -1,0 +1,10 @@
+/home/brian/source/MvcSearch/bin/Debug/netcoreapp2.0/MvcSearch.deps.json
+/home/brian/source/MvcSearch/bin/Debug/netcoreapp2.0/MvcSearch.runtimeconfig.json
+/home/brian/source/MvcSearch/bin/Debug/netcoreapp2.0/MvcSearch.runtimeconfig.dev.json
+/home/brian/source/MvcSearch/bin/Debug/netcoreapp2.0/MvcSearch.dll
+/home/brian/source/MvcSearch/bin/Debug/netcoreapp2.0/MvcSearch.pdb
+/home/brian/source/MvcSearch/obj/Debug/netcoreapp2.0/MvcSearch.csproj.CoreCompileInputs.cache
+/home/brian/source/MvcSearch/obj/Debug/netcoreapp2.0/MvcSearch.AssemblyInfoInputs.cache
+/home/brian/source/MvcSearch/obj/Debug/netcoreapp2.0/MvcSearch.AssemblyInfo.cs
+/home/brian/source/MvcSearch/obj/Debug/netcoreapp2.0/MvcSearch.dll
+/home/brian/source/MvcSearch/obj/Debug/netcoreapp2.0/MvcSearch.pdb
